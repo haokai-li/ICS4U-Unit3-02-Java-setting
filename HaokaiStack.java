@@ -10,7 +10,7 @@
 import java.util.ArrayList;
 
 /**
-* This is the standard "Towers of Hanoi" program.
+* This is the standard "lock" program.
 */
 public class HaokaiStack {
     /**
